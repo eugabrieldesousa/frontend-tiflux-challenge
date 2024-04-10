@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+
+.custom-sider {
+  background-color: #03363D;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
